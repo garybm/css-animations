@@ -1,0 +1,38 @@
+.square {
+  position: absolute;
+  top: 500px;
+  height: 100px;
+  width: 100px;
+  background-color: red;
+}
+
+
+
+.second-square {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+
+}
+
+
+
+.circle {
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+  border: 5px dashed black;
+  background-color: green;
+
+}
+
+
+
+.final {
+  position: absolute;
+  left: 500px;
+  height: 100px;
+  width: 100px;
+  background-color: purple;
+  animation-iteration-count: infinite;
+}
